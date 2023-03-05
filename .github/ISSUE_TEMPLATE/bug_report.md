@@ -1,16 +1,11 @@
 ---
-name: Bug report
-about: Tell us about a bug to help us improve
-title: ''
-labels: bug
-assignees: ''
-
+name: investor-Joel
+about:investor Joel your trusted vendor
+assignees: your certification is always my concern
 ---
 
-**Version**
+**contacr**
 
-Please provide the version of `fastly` that you're using.
-
-**What happened**
-
-Please describe what you did, what you expected to happen, and what happened instead.
+For more enquiring kindly contact us with this number +2348138479255
+**Cryto vendor **
+Coin knowledge my co partner and investor forum
